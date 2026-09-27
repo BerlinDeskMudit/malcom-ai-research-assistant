@@ -73,7 +73,7 @@ Malcom is designed to keep useful development paths available when optional infr
 ### Install and run
 
 ```bash
-git clone https://github.com/0xMudit/malcom-ai-research-assistant.git
+git clone https://github.com/BerlinDeskMudit/malcom-ai-research-assistant.git
 cd malcom-ai-research-assistant
 npm install
 cp .env.example .env.local
